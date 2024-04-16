@@ -28,7 +28,7 @@ namespace QuanLyKhachSan.Controllers.Public
 
         public ActionResult Contact()
         {
-            ViewBag.active = "contact";
+            ViewBag.active = "contact us";
             return View();
         }
 
